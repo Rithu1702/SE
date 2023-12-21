@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>homepage</title>
+</head>
+<body>
+<center><b><h1>Welcome to Chanel!!</h1></b>
+<img src="chanel.jpg" alt="Chanel Logo" height="200" width="200" >
+<form method="post"action="login.html">
+<input type="submit"value="click">click to register
+</center>
+</body>
+</html>
